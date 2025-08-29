@@ -5,7 +5,7 @@ let w = (c.width = window.innerWidth),
 (hh = h / 2),
   (opts = {
 
-    strings: ["HAPPY", "BIRTHDAY!", "to you my Love!", "Soni <3"],
+    strings: ["HAPPY", "BIRTHDAY!", "to you", "my Love!", "Soni <3"],
     charSize: 30,
     charSpacing: 35,
     lineHeight: 40,
